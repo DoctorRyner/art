@@ -1,1 +1,8 @@
 keka
+
+new keka 3
+
+scripts [
+	kek1,
+	kek2
+]
