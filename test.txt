@@ -1,5 +1,14 @@
 keka
 
+<<<<<<< HEAD
 new keka
 
 new keka 2
+=======
+new keka 3
+
+scripts [
+	kek1,
+	kek2
+]
+>>>>>>> testa
